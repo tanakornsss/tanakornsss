@@ -1,14 +1,15 @@
 # Hi 👋, I'm tanakornsss
 
-### A Grade 12 student interesting in Computer Engineering
+### Computer Engineering KMITL65
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakornsss&label=Profile views&color=0e75b6&style=flat" alt="tanakornsss" /> </p>
-
-- 🔭 I'm currently working on **Luminality App https://github.com/tanakornsss/Luminality-Preview**
-
-- 🌱 I'm currently learning **Typescript, Kotlin**
+- 🌱 I'm currently learning **Kotlin, C, C++**
 
 - 📫 How to reach me **omtanakorn2550@gmail.com**
+
+### My projects: 
+- MiniShell https://github.com/tanakornsss/mini_shell
+- Luminality https://github.com/tanakornsss/Luminality-Preview
+- ... and more coming soon!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
